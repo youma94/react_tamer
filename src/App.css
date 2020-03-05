@@ -1,0 +1,52 @@
+.container {
+  text-align: center;
+  margin: 20px 35vw;
+}
+.phone {
+  border: 1px green solid;
+  border-radius: 30px;
+  text-align: center;
+  background-color: #eee;
+}
+.cadre {
+  background-color: #334;
+  color: azure;
+  line-height: 50px;
+  text-align: right;
+  margin: 1vh 1vw 5vh 1vw;
+  padding: 30px 2% 0px 2%;
+  border-radius: 5px;
+}
+.te {
+  width: 20%;
+  height: 10px;
+  border: 1px solid black;
+  margin: 22px 40%;
+  border-radius: 5px;
+  background-color: white;
+}
+p {
+  font-size: 5.6vw;
+  line-height: 0px;
+}
+span {
+  font-size: 20px;
+  line-height: 0px;
+}
+.btn {
+  width: 45%;
+  height: 6vh;
+  margin: 0px 0.5vw 8px 0.5vw;
+  background-color: #39394f;
+  color: beige;
+  border: 0.5px solid lightsteelblue;
+  font-size: 2vw;
+  border-radius: 8px;
+}
+.te2 {
+  height: 3.5vh;
+  width: 20%;
+  border-radius: 20px;
+  background-color: #eee;
+  border: 2px black solid;
+}
